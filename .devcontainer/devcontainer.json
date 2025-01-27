@@ -1,0 +1,9 @@
+{
+    "name": "Hello 423 in Go",
+    "image": "mcr.microsoft.com/devcontainers/go",
+    "customizations": {
+        "vscode": {
+            "extensions": ["golang.go"]
+        }
+    }
+}
